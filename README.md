@@ -23,7 +23,7 @@ pip install pulp, pandas_datareader,statsmodels
 
 ## Table of Content
 - **Portfolio Optimization**
-    - CAPM & Linear Programming: Portfolio Optimization [Jupyte Notebook](https://github.com/nancyyanyu/fincinate/blob/master/src/capm.ipynb)
+    - Capital Asset Pricing Model (CAPM) & Linear Programming: Portfolio Optimization [Jupyte Notebook](https://github.com/nancyyanyu/fincinate/blob/master/src/capm.ipynb)
     
 
 
