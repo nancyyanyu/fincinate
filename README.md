@@ -8,7 +8,7 @@ This project reviewed and implemented various classical pricing models and inves
 
 Clone this repository and run the Jupyter Notebook
 ```
-git clone https://github.com/nancyyanyu/fincinate.git
+git clone https://github.com/nancyyanyu/Fincinate.git
 ```
 
 ### Prerequisites
